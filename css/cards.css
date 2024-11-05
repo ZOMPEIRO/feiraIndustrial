@@ -1,0 +1,57 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin: 5%  ;
+    margin-left: 10%;
+    
+ 
+}
+
+.cards div  a{
+    display: flex;
+    flex-direction: column-reverse;
+    text-decoration: none; 
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #E81B5C;
+   
+
+}
+
+.cards img{
+
+    height: 150px;
+    width: 150px ;
+    margin-top: 0px;
+    
+    
+   
+  
+}
+
+.edicao-img{
+
+    border-radius: 5%;
+    box-shadow: 4px 4px 4px gray;
+    border: 1px solid rgb(87, 86, 116);
+    padding: 35px;
+    background-color: white;
+
+
+}
+
+
+.cards img:hover{
+    
+    transform: scale(1.10);
+    /*height: 175px;
+    width: 175px ;*/
+
+
+}
+
+.edicao-img:hover {
+    transform: scale(1.10);
+
+}

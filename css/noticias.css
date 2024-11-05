@@ -1,0 +1,97 @@
+.noticia-card {
+
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px rgb(131, 127, 127);
+    border-radius: 2%;
+    padding: 5%;
+    width: 80%;
+    margin: 5% 5% 5% 5%;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px gray;
+    gap: 5%;
+   
+}
+
+.texto-noticia div {
+    display: flex;
+   align-items: center;
+  
+  
+}
+
+
+.noticia-card  img{
+   
+    height: 500px;
+    width: 600px;
+    border-radius: 2%;
+    margin-top: 10%;
+   
+}
+
+h3{
+    color: rgb(55, 54, 54);
+}
+
+.noticia-card2 {
+
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px rgb(131, 127, 127);
+    border-radius: 2%;
+    padding: 5%;
+    width: 80%;
+    margin: 5% 5% 5% 5%;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px gray;
+    gap: 8%;
+    flex-direction: row-reverse;
+   
+   
+}
+
+.noticia-card2  img{
+   
+    height: 500px;
+    width: 600px;
+    border-radius: 2%;
+    margin-top: 10%;
+   
+}
+
+
+
+.noticia-card3 {
+
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px rgb(131, 127, 127);
+    border-radius: 2%;
+    padding: 5%;
+    width: 80%;
+    margin: 5% 5% 5% 5%;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px gray;
+    gap: 5%;
+    font-size: 17px;
+    align-items: center;
+   
+}
+
+
+
+
+.noticia-card3  img{
+   
+    height: 500px;
+    width: 600px;
+    border-radius: 2%;
+    
+   
+}
+
+
+
+
+
